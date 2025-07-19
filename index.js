@@ -72,18 +72,18 @@ app.get('/pairing', async (req, res) => {
 				await sparky.sendMessage(sparky.user.id, { text: `_*Thanks for choosing X-BOT-MD*_
 
 *REPO*
-https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD
+https://github.com/mackbotzzzz/Luffy-Md
             
             
 *ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ϙᴜᴇʀʏ*
-https://chat.whatsapp.com/KMqXtMicl9uCgMuduidlXb
+https://chat.whatsapp.com/KMqXtMicl9uCgMudulXb
             
 *Cʜᴀɴɴᴇʟ ʟɪɴᴋ*
-https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00
+https://whatsapp.com/channel/0029Va9ZOf3sR1Ym7O2x00
             
             
 *Replit Deployment Tutorial Link:*
-https://youtu.be/SfXJuSug4Lo?si=aRToYKZFZFzan0a0
+https://youtu.be/SfXJuSLo?si=aRToYKZFZFzan0a0
             
 *Heroku Deployment link:*
             
